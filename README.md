@@ -21,6 +21,8 @@ To change the case of a single heading, select all or part of the heading in CKE
 
 ![](https://user-images.githubusercontent.com/1538852/28913812-6e007eba-788d-11e7-803a-ca22bbf538dd.gif)
 
+There can be situations where the results need manual correction: proper names, acronyms, etc.
+
 ## Exceptions for small words
 
 Certain short English prepositions and conjunctions (three letters or less) are excluded from capitalisation when title case is applied. Edit the `exceptions` array in the plugin source code if you want to customise this list of exceptions.
