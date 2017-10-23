@@ -6,7 +6,7 @@ This is useful when you are copy/pasting text from a document that has been supp
 
 ## Installation
 
-Copy the "headingscase" folder to /site/modules/InputfieldCKEditor/plugins/
+The plugin folder must be named "headingscase" – if needed, rename the folder to remove the "-master" suffix added by GitHub. Copy the "headingscase" folder to /site/modules/InputfieldCKEditor/plugins/
 
 In the field settings for each CKEditor field that you want to activate the plugin for:
 
